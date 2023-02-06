@@ -1,0 +1,22 @@
+.App {
+  background-color: rgb(191, 148, 231);
+   height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.gameBoxes {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+ 
+}
+
+.games {
+  border:  2px dotted yellowgreen;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(89, 127, 163);
+}
